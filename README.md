@@ -10,3 +10,6 @@ Resumo do lab -  resumo das lições aprendidas durante o desenvolvimento do lab
 
 # Armazenamento
 <p> Aula com os principais recursos para armazenar informações nas nuvens. Além de ensinar como migrar de uma licensa privada para publica.  </p>
+
+# Entendendo sobre Segurança e Identidade na Azure
+<p> Uma das aulas mais importantes dentro do ambiente Azure. Lidar com autenticação, autorização e ter esses controles nas nuvens fica muito util e prático o gerenciamento do usuario seja ele interno ou externo. Conceitos uteis de B2C e B2B, foi top! </p>
