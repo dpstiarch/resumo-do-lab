@@ -15,5 +15,5 @@ Resumo do lab -  resumo das lições aprendidas durante o desenvolvimento do lab
 <p> Uma das aulas mais importantes dentro do ambiente Azure. Lidar com autenticação, autorização e ter esses controles nas nuvens fica muito util e prático o gerenciamento do usuario seja ele interno ou externo. Conceitos uteis de B2C e B2B, foi top! </p>
 
 
-# Gerenciamento de Custos – Laboratório
+# Otimizando Custos no Azure
 <p>Dicas importante relacionados a custos, calculos para levar os recursos para nuvens, tags, etc...</p>
