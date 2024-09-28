@@ -17,3 +17,13 @@ Resumo do lab -  resumo das lições aprendidas durante o desenvolvimento do lab
 
 # Otimizando Custos no Azure
 <p>Dicas importante relacionados a custos, calculos para levar os recursos para nuvens, tags, etc...</p>
+
+
+# Gerenciando Politicas em Acessos Azure
+<p>Aula que define complice, politicas e restrige acessos aos recursos.</p>
+
+# Ferramentas de Implantação na Azure
+<p>Aula com as principais ferramentas que auxiliam a construção de recursos nas nuvens. O arc permite gerenciar multi clouds como AWS e GCP</p>
+
+# Monitoramento Inteligente com o Azure
+<p>Aula completa com os principais tipos de monitoramentos, para verificar a saúde dos nossos recursos. Afim de indetificar possiveis problemas ou falhas em determinadas regiões.</p>
